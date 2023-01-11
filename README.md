@@ -9,3 +9,7 @@ larry's blog
 ## cdn
 
 - [cdn常用术语总结](https://github.com/larry-xue/blogs/issues/3)
+
+## dns
+
+- [DNS 的一些概念 ｜ 与chatGPT的对话](https://github.com/larry-xue/blogs/issues/4)
